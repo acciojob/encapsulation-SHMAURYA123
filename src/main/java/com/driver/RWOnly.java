@@ -1,7 +1,7 @@
 package com.driver;
 
 public class RWOnly {
-    ivate String name="ACCIO";
+    private String name="ACCIO";
 
 
 
